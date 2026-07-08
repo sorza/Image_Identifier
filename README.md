@@ -12,19 +12,19 @@ Projeto pronto para ser compilado e executado em ambiente desktop.
 
 ## Como Executar
 
-#### Clone este repositório:
+#### 1. Clone este repositório:
 ```
 git clone https://github.com/sorza/Image_Identifier.git
 ```
 
-#### Abra a solução no Visual Studio ou VS Code.
+#### 2. Abra a solução no Visual Studio ou VS Code.
 
-#### Compile o projeto:
+#### 3. Compile o projeto:
 ```
 dotnet build
 ```
 
-#### Execute a aplicação:
+#### 4. Execute a aplicação:
 ```
 dotnet run
 ```
